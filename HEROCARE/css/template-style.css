@@ -152,7 +152,7 @@ td {border-right:1px solid #fff;}
 
 /* Backgrounds */
 .background-image {
-  
+  background-repeat: no-repeat;
   align-items: center;
   background-size: contain;
 }
