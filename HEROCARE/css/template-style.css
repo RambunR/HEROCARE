@@ -152,9 +152,9 @@ td {border-right:1px solid #fff;}
 
 /* Backgrounds */
 .background-image {
-  background-repeat: no-repeat;
+  
   align-items: center;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 .background-white-hightlight .top-nav .active-item > a, .background-white-hightlight .top-nav li a:hover, .background-white-hightlight .aside-nav li a:hover, 
 .background-white-hightlight .aside-nav > ul > li.active-item > a:link, .background-white-hightlight .aside-nav > ul > li.active-item > a:visited,
